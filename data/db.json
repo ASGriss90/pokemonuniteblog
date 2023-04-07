@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "What's New in Pokemon Unite?",
+      "body": "Hello everyone! 2022 proved to be an incredible fast-paced exciting first year of Pokémon UNITE! These past few months, we’ve celebrated our first anniversary, turned Pokémon into snowmen, and welcomed our first Legendary Pokémon, Urshifu, to Aeos Island. Although the celebrations are over, there’s plenty more to be excited about coming soon to Pokémon UNITE. ZOROARK RELEASE RETROSPECTIVEIn October we released the Melee Speedster Zoroark and made it obtainable only with Aeos gems as part of a bundle with its Costume Party Style Holowear during its first week of release. We heard the community’s feedback which informed us that these restrictions were not a good experience. We appreciate that feedback and after consideration we will not be following this release practice in the future. We intend to create a better paid experience for Pokémon UNITE players in the coming months, and we welcome your feedback across our social channels. We look forward to collaborating with the community in the future, so please continue sharing your valuable feedback with us and one another. MATCHMAKING EXPLAINED Matchmaking is a much-discussed subject in the community. For players who are unfamiliar, we’ll explain how it works.Matching is based on “matchmaking rating” (MMR), which is a hidden number decided by factors like win percentage, consecutive wins, and current rank. During matchmaking, players are put into a queue that searches for players who have a similar MMR, and then positions are filled for both teams. After a period of time, if no players of similar skill level are available, the matching parameters broaden to look at a wider pool of potential teammates and opponents. By doing so, the game attempts to optimize the balance both within and between the teams in terms of player skill level, as well as create a fairly matched environment for all players.You can see a breakdown of teams’ composition and MMR below.",
+      "author": "Blair D",
+      "id": 1
+    },
+    {
+      "title": "How to Carry Your Team.",
+      "body": "Okay, let's see a top laner Top lane Absol can contest Aipoms really well due to its burst damage from Slash and Feint while letting you get to safety. Top lane is also great for rotations and counter jungling, which Absol does well. an all rounder, speedster or attacker Absol is a speedster strong unite move to kill steal objectives Absol's unite move is one of the higher damage ones in the game, easy to aim against objectives, is AoE to do further collateral damage to enemies, and Absol is safe during its animation. do well by itself Absol's damage potential is high enough that it is possible to duel and kill enemy mons when underleveled. It has the mobility to farm quickly, be a map nuisance, and escape from bad fights or ganks. So my advice to you is to buy Lucario if you're looking for a solo carry mon.",
+      "author": "Alex G",
+      "id": 2
+    },
+    {
+      "title": "Team Composition is Important",
+      "body": "When going into a battle it is important to note one's team composition before picking which pokemon one will play as for that particular match. For example if one's team already has 2 Speedsters even if that is a player's preferred role, it would be better in most cases to select a different kind of pokemon so that the team will be more balanced. Every successful team will need both offensive characters to defeat foes and score goals as well as defensive ones to hold positions. Attack and defense are equally important in battle, as lacking either will create vulnerabilities that opponents can take advantage of, such as no one being around to stop them from scoring and more.",
+      "author": "Alex G",
+      "id": 3
+    },
+    {
+      "title": "How Build Emblems Works",
+      "body": "Emblems have two effects on Pokémon, which include their ‘singular’ effects and their ‘color group’ effects. Every individual emblem has two stat changes on a Pokémon, one will decrease a Pokémon’s stat, while the other change will increase a Pokémon’s stat in return. With higher rarity, the amount of stat in the emblem decrease/increase will be greater.\n\nFor example, a bronze Bulbasaur emblem will decrease a Pokémon’s health by 30, but by providing 1.5 special attacks in return, a silver Bulbasaur emblem will decrease a Pokémon’s health by 40, providing 2.5 special attacks in return. A gold Bulbasaur emblem will decrease a Pokémon’s health by 50, providing 3 special attacks in return. These individual emblem effects can alter the following stats:\n\nHP\nAttack\nDefence\nSp. Attack\nSp. Def\nSpeed\nCritical Hit Rate\nThese individual effects currently have very little effect on Pokémon. Therefore, the color group bonuses should be prioritized, as the most notable of these stats is the critical hit rate. Characters with a high attack like Absol and Cinderace do benefit greatly from it.\n\nThe other effects are the ‘color group’ effect. Each emblem is assigned one or two color effects. When several emblems of a specific color are assigned to a Pokémon, they will get a bonus of some sort. The effects of Boost Emblems include the following:",
+      "author": "mario",
+      "id": 6
+    }
+  ]
+}

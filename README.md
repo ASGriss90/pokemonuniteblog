@@ -6,5 +6,5 @@ Upcoming Chnages
 - CSS Styling
 - Update page layout
 - Adding new pages (Sign-in/Login and Initial blogs)
-- Adding switching out Json server data with Mongo data
+- Switching out Json server data with Mongo data
 - more TBA!

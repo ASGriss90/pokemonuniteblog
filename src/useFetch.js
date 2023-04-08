@@ -29,7 +29,7 @@ const useFetch = (url)=>{
                     console.log(err.message)
                 }
             });
-            return() => abortCont.abort();
+            return() => abortCont.abort()
     }, [url]);
     
     return {data, error}

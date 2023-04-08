@@ -1,6 +1,5 @@
 import {Link} from 'react-router-dom';
 
-//Use a map() to interate through a list and display it in JSX
 const BlogList = ({title ,blogs})=> {
     return(
         <div className="Blog-list">

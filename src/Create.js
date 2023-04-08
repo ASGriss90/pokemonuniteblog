@@ -30,8 +30,6 @@ const Create = () =>{
 
     return(
         <div className="create">
-            <button onClick={() => {setCount(count+1)}}>Increase</button>
-            <h2>{count}</h2>
             <h2>Create a Blog</h2>
             <form onSubmit={handleSubmit}>
                 <label>Blog Title</label>

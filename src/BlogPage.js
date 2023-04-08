@@ -14,7 +14,6 @@ const BlogPage = () => {
             navigate("/")
         });
     }
-
     return ( 
         <div className="blog-details">
             {error && <div> {error} </div>} 
